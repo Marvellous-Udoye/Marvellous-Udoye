@@ -1,6 +1,7 @@
-# Hi there, I'm Marvellous Udoye, an Enthusiastic Front-End Developer proficient in Reactjs, Nextjs, Tailwindcss, Javascript, and Typescript
+# Hi, I'm Marvellous Udoye, an Enthusiastic Front-End Developer 👋
+I'm proficient in Reactjs, Nextjs, Tailwindcss, Javascript, and Typescript
 
-### Tools & Workflow:
+### Tools & Workflow 🛠
 - **Version Control**: Git and GitHub for smooth collaboration and versioning.
 - **Code Quality**: Writing clean, performant, and maintainable code.
 - **Responsive Design**: Ensuring websites look great on all devices.
