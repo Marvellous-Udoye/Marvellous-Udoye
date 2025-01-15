@@ -1,40 +1,12 @@
-## "Meet me" 👋, an enthusiastic front-end developer
-I specialize in creating sleek, intuitive, and dynamic web experiences that not only engage users but also address real-world challenges. Lately, I’ve been diving into the worlds of backend and mobile development—because why stop at just one frontier? 🚀
-
+👋 Heyo, I'm marv_lous.  
 ---
 
-## 🚀 **What I Bring to the Table**  
-- **Continuous Learning & Development**: Always exploring new technologies and refining my skills to stay ahead in the ever-evolving tech world.  
-- **Pixel Perfection**: Turning designs into flawless, precise, and polished interfaces that captivate users.  
-- **Responsiveness First**: Building adaptable web experiences that look and function beautifully on any device.  
-- **Visually Appealing Interfaces**: Designing stunning and user-friendly applications that leave a lasting impression.  
+I'm a **Software Developer** who currently works as a **Front-End Developer**, specializing in building pixel-perfect, responsive, and user-centric interfaces. With expertise in modern technologies, a strong eye for detail, and a passion for continuous improvement, I focus on delivering visually appealing and high-performance applications. ✨  
 
----
+I'm proficient in languages such as **HTML**, **CSS**, and **JavaScript** 🛠️, and skilled with frontend frameworks and libraries like **React**, **Next.js**, **EJS**, **jQuery**, and **TypeScript** ⚛️. For styling, I utilize tools like **Tailwind CSS** 🎨 and **SCSS/SASS** to ensure every application looks polished and professional. I have hands-on experience with **RESTful API integration**, **Redux** for state management, and authentication tools like **NextAuth** 🔐. Additionally, I’m experienced in testing frameworks like **Jest** and **Vitest** to deliver reliable and bug-free solutions ✅.  
 
-## 🛠 **How I Get Things Done**  
-- **Frameworks & Libraries**: Next.js, React, Tailwind CSS, Redux 
-- **Languages**: TypeScript, JavaScript  
-- **Testing**: Jest  
-- **Authentication**: NextAuth  
-- **Version Control**: Git & GitHub  
-- **Backend & Database**: Django, Firebase 
-- **UI & Design Tools**: Custom UI Libraries, Figma
-- **Hosting Platforms**: Vercel, Netlify
+On the backend, I’m familiar with technologies such as **Firebase** and **Django**, which I’ve used to create and integrate **RESTful APIs** ⚙️. My understanding of **web design principles** and **user experience (UX) design** helps me craft applications that are intuitive and easy to use.  
 
----
+I’ve also engaged extensively in **version control** and **collaboration** using **Git** and **GitHub** 🗂️. I understand the importance of collaborative coding practices and have contributed to group projects where developers work together on shared codebases 🤝.  
 
-## 🌟 **My Projects**  
-### [**Devlinks**](https://devlinks-full-stack-app.vercel.app/)  
-Your ultimate link customization tool! Secure accounts, personalized links, and an intuitive interface to supercharge your online presence—all in one place.  
-
-### [**ArchiBuzz Studios**](https://archi-buzz.vercel.app/)  
-A vibrant platform connecting architecture lovers and AI enthusiasts. From resources to networking, ArchiBuzz is where innovation meets collaboration!  
-
----
-
-## 💬 **Let’s Build Something Amazing**  
-I’m always up for exciting projects, fresh ideas, and meaningful collaborations. Whether it’s creating impactful web apps, brainstorming over coffee, or just geeking out about tech, hit me up!  
-
----
-
-📩 **Email**: marveldoc17@gmail.com  
+Feel free to check out my repositories below or reach out to me directly! You can email me at ✉️ [marveldoc17@gmail.com](mailto:marveldoc17@gmail.com). I'm always open to collaboration and exciting opportunities! 🚀  
