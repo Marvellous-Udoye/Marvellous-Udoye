@@ -5,7 +5,7 @@ Think of me as the bridge between great ideas and beautiful digital experiences.
 
 I believe good code should be clean, thoughtful, and built with the future in mind, the kind that doesn’t just work today, but stays solid as things grow and change. Collaboration keeps me energized, learning keeps me curious, and seeing an idea come to life is what keeps me moving.
 
-When I'm not pixel-pushing or code-wrangling, you’ll find me leveling up my skills, geeking out about design, or hunting down the perfect playlist to soundtrack the next big idea.
+When I'm not pixel-pushing or code-wrangling, you’ll find me leveling up my skills, diving into new frameworks and tools, or catching up on the latest in tech and creativity.
 
 Feel free to check out my repositories below or reach out to me directly! You can email me at [marveldoc17@gmail.com](mailto:marveldoc17@gmail.com).  Always up for a good conversation, tech-related or otherwise. 🚀
 
