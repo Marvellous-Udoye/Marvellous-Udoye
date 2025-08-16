@@ -1,5 +1,4 @@
-👋 Heyo, I'm marv_lous.  
----
+👋 Hey.  
 
 Think of me as the bridge between great ideas and beautiful digital experiences. I spend my days building products that feel natural to use, focusing on the small details that make a big difference. Whether it’s kicking off something new or improving what’s already there, I’m all about making things simple, seamless, and genuinely useful.
 
