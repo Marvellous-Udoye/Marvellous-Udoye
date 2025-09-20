@@ -1,12 +1,26 @@
-👋 Hey.  
+<div align="center">
 
-Think of me as the bridge between great ideas and beautiful digital experiences. I spend my days building products that feel natural to use, focusing on the small details that make a big difference. Whether it’s kicking off something new or improving what’s already there, I’m all about making things simple, seamless, and genuinely useful.
+**Not your average software developer** 
 
-I believe good code should be clean, thoughtful, and built with the future in mind, the kind that doesn’t just work today, but stays solid as things grow and change. Collaboration keeps me energized, learning keeps me curious, and seeing an idea come to life is what keeps me moving.
+[![Next.js](https://img.shields.io/badge/Next.js-15.3.0-black?style=flat&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.7.3-pink?style=flat&logo=framer)](https://www.framer.com/motion/)
 
-When I'm not pixel-pushing or code-wrangling, you’ll find me leveling up my skills, diving into new frameworks and tools, or catching up on the latest in tech and creativity.
+> Think of me as the bridge between great ideas and beautiful digital experiences. I spend my days building products that feel natural to use, focusing on the small details that make a big difference.
 
-Feel free to check out my repositories below or reach out to me directly! You can email me at [marveldoc17@gmail.com](mailto:marveldoc17@gmail.com).  Always up for a good conversation, tech-related or otherwise. 🚀
+</div>
+
+
+Hey there! I'm **Marvellous Udoye**, I'm all about making things simple, seamless, and genuinely useful, whether it's kicking off something new or improving what's already there.
+
+I believe good code should be clean, thoughtful, and built with the future in mind—the kind that doesn't just work today, but stays solid as things grow and change. Collaboration keeps me energized, learning keeps me curious, and seeing an idea come to life is what keeps me moving.
+
+When I'm not pixel-pushing or code-wrangling, you'll find me leveling up my skills, diving into new frameworks and tools, or catching up on the latest in tech and creativity.
+
+---
+
+Feel free to check out my repositories below or reach out to me directly! You can email me at [marveldoc17@gmail.com](mailto:marveldoc17@gmail.com).  Always up for a good conversation, tech-related or otherwise. 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvellous-udoye" alt="marvellous-udoye" /></a> </p>
@@ -20,3 +34,11 @@ Feel free to check out my repositories below or reach out to me directly! You ca
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvellous-udoye&show_icons=true&locale=en" alt="marvellous-udoye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvellous-udoye&" alt="marvellous-udoye" /></p>
+
+<div align="center">
+
+**Made with ❤️ by Marvellous Udoye**
+
+*"Code is poetry written in logic"* ✨
+
+</div>
