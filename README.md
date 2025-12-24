@@ -2,10 +2,10 @@
 
 **Not the average software developer** 
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.3.0-black?style=flat&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.7.3-pink?style=flat&logo=framer)](https://www.framer.com/motion/)
+[![Next.js](https://img.shields.io/badge/Next.js-16.1.1-black?style=flat&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.18-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.26-pink?style=flat&logo=framer)](https://www.framer.com/motion/)
 
 > Think of me as the bridge between great ideas and beautiful digital experiences. I spend my days building products that feel natural to use, focusing on the small details that make a big difference.
 
@@ -14,7 +14,7 @@
 
 Hey there! I'm **Marvellous Udoye**, I'm all about making things simple, seamless, and genuinely useful, whether it's kicking off something new or improving what's already there.
 
-I believe good code should be clean, thoughtful, and built with the future in mind—the kind that doesn't just work today, but stays solid as things grow and change. Collaboration keeps me energized, learning keeps me curious, and seeing an idea come to life is what keeps me moving.
+I believe good code should be clean, thoughtful, and built with the future in mind, the kind that doesn't just work today, but stays solid as things grow and change. Collaboration keeps me energized, learning keeps me curious, and seeing an idea come to life is what keeps me moving.
 
 When I'm not pixel-pushing or code-wrangling, you'll find me leveling up my skills, diving into new frameworks and tools, or catching up on the latest in tech and creativity.
 
