@@ -1,18 +1,20 @@
 <div align="center">
+  
+<p align="center">
+   <img height="350" alt="Marvellous Udoye Cover Banner" src="https://res.cloudinary.com/ds6nd4lbj/image/upload/unnamed_jbfa84.png">
+</p>
 
-**Not the average software developer** 
+![Role](https://img.shields.io/badge/Role-Software_Developer-black?style=flat)
+![Achievement](https://img.shields.io/badge/Achievement-HNG_Finalist-5c46eb?style=flat)
+![Interest](https://img.shields.io/badge/Interest-Next.js_Enthusiast-000000?style=flat&logo=next.js)
+![Focus](https://img.shields.io/badge/Focus-UX_Specialist-38B2AC?style=flat)
+![Mindset](https://img.shields.io/badge/Mindset-10x_Dev-pink?style=flat)
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.1.1-black?style=flat&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.18-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.26-pink?style=flat&logo=framer)](https://www.framer.com/motion/)
-
-> Think of me as the bridge between great ideas and beautiful digital experiences. I spend my days building products that feel natural to use, focusing on the small details that make a big difference.
+> Think of me as the bridge between great ideas and beautiful digital experiences. I spend my time building products that are genuinely useful, focusing on the small details that make a big difference. 
 
 </div>
 
-
-Hey there! I'm **Marvellous Udoye**, I'm all about making things simple, seamless, and genuinely useful, whether it's kicking off something new or improving what's already there.
+Quick hello, I'm **Marvellous Udoye**, something about me, is that I like building things, not in a fancy way tho, just… building stuff that ends up being useful. I'm all about making things simple, seamless, and genuinely useful, whether it's kicking off something new or improving what's already there.
 
 I believe good code should be clean, thoughtful, and built with the future in mind, the kind that doesn't just work today, but stays solid as things grow and change. Collaboration keeps me energized, learning keeps me curious, and seeing an idea come to life is what keeps me moving.
 
