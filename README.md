@@ -5,8 +5,6 @@
 </p>
 
 ![Role](https://img.shields.io/badge/Role-Software_Developer-black?style=flat)
-![Achievement](https://img.shields.io/badge/Achievement-HNG_Finalist-5c46eb?style=flat)
-![Interest](https://img.shields.io/badge/Interest-Next.js_Enthusiast-000000?style=flat&logo=next.js)
 ![Focus](https://img.shields.io/badge/Focus-UX_Specialist-38B2AC?style=flat)
 ![Mindset](https://img.shields.io/badge/Mindset-10x_Dev-pink?style=flat)
 
